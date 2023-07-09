@@ -1,0 +1,13 @@
+package com.itcompany;
+
+
+
+import com.elementsoftech.beans.PassworkService;
+
+public class pwdTest {
+	
+	PassworkService service = new PassworkService();
+	
+	
+
+}
